@@ -1,4 +1,6 @@
 # Boot to Gecko (B2G)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FB2G.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FB2G?ref=badge_shield)
+
 
 Boot to Gecko aims to create a complete, standalone operating system for the open web.
 
@@ -19,3 +21,7 @@ and talk to us on IRC:
   #B2G on irc.mozilla.org
 
 See INSTALL file in repository for instructions on building and running B2G.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FB2G.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FB2G?ref=badge_large)
